@@ -9,11 +9,15 @@
 Uma demonstração incrível do nosso curso de desenvolvimento de jogos. Fique ligado para mais detalhes! 🚀
 
 <span style="background-color:rgb(255, 187, 51), color:rgb(0, 0, 102)">Em breve...</span>
-
+<div>
 <a href="#">Itch.io Page Chrono Edge </a>
+</div>
+<div>
 <a href="#">Youtube Channel</a>
+</div>
+<div>
 <a href="#">Instagram link</a>
-
+</div>
 ==================================================================================
 
 ## The Enchanted Sands
@@ -26,7 +30,17 @@ Uma demonstração incrível do nosso curso de desenvolvimento de jogos. Fique l
 
 Este jogo é uma incrível demonstração do nosso curso de desenvolvimento de jogos. Fique atento para mais novidades! 🚀
 
+<span style="background-color:rgb(255, 187, 51), color:rgb(0, 0, 102)">Em breve...</span>
+<div>
 <a href="#">Itch.io Page Enchated Sands </a>
+</div>
+<div>
+<a href="#">Youtube Channel</a>
+</div>
+<div>
+<a href="#">Instagram link</a>
+</div>
+
 
 
 
